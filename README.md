@@ -1,2 +1,2 @@
 # Background-generator
-Generate gradient background
+Generates gradient background
