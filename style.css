@@ -1,0 +1,35 @@
+h1,
+h2,
+h3 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #2e2e2e;
+    font-weight: bold;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.random {
+    border-radius: 10vh;
+    padding: 10px 15px;
+    font-size: 130%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: burlywood;
+    border-color: rgba(222, 184, 135, 0.868);
+    border-image: none;
+    border-style: none;
+    color: #2e2e2e;
+    font-weight: bold;
+}
+
+#color1 {
+    margin-right: 20px;
+}
+
+body {
+    background: linear-gradient(to right, #ff0000, #00ff00);
+}
