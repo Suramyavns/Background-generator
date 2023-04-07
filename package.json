@@ -1,0 +1,24 @@
+{
+    "name": "background-generator",
+    "version": "1.0.0",
+    "description": "Generates gradient background",
+    "main": "script.js",
+    "scripts": {
+        "build": "browserify script.js > bundle.js && live-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Suramyavns/Background-generator.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Suramyavns/Background-generator/issues"
+    },
+    "homepage": "https://github.com/Suramyavns/Background-generator#readme",
+    "dependencies": {
+        "browserify": "^17.0.0",
+        "live-server": "^1.2.2",
+        "lodash": "^4.17.21"
+    }
+}

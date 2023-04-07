@@ -1,3 +1,6 @@
+const _ = require("lodash")
+const arr = [2, 4, 6, 8, 10, 12, 14, 16]
+console.log(_.without(arr, 16))
 var body = document.getElementById('body');
 var color1 = document.querySelector('#color1');
 var color2 = document.querySelector('#color2');
