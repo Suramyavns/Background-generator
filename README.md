@@ -1,5 +1,4 @@
-# Background-generator
-Generates gradient background
+# Background-generator : Generates gradient background
 
 Instructions:
 `run npm install`
